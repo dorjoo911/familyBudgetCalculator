@@ -68,7 +68,6 @@ var uiController = (function () {
       });
 
       document.querySelector(DOMstrings.addBtn).classList.toggle("red");
-      // location = "http://1234.mn/course";
     },
 
     getInput: function () {
